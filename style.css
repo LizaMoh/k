@@ -1,0 +1,29 @@
+h1{
+    color: #799a9e;
+    font-weight: 500;
+    background-color: #b5bdc7;
+}
+.a{
+    color: #846893;
+    font-size: 23px;
+    text-decoration: underline;
+    letter-spacing: 3px;
+}
+div{
+    width: 88px;
+    height: 55px;
+    color: #6b6180;
+   background-color: rgb(216, 210, 218);
+   border:2px solid rgb(173, 213, 233)
+}
+.img{
+    height: 199px;
+    border-radius: 66px;
+}
+.k{
+    width: 200px;
+    border-radius: 13px;
+}
+.U{
+    border-bottom: 2PX solid rgb(94, 71, 83);
+}
